@@ -3,7 +3,7 @@ __pycache__/
 *.pyc
 *.pyo
 *.pyd
-
+bot-env/
 # Pastas do virtualenv
 venv/
 .env
