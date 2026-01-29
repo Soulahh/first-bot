@@ -1,0 +1,16 @@
+# Arquivos do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Pastas do virtualenv
+venv/
+.env
+
+# Logs
+*.log
+
+# Arquivos do sistema
+.DS_Store
+
